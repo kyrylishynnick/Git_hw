@@ -1,0 +1,14 @@
+Title - The button 'Cancel' has the wrong size
+Steps to reproduce:
+1. Open the www.test.com
+2. Open the random user (e.g. userID = 2313)
+3. Make some changes
+4. Pay attention to the color of the 'Save' button
+
+Actual result:
+The button 'Cancel' has the wrong size
+
+Expected result:
+The button 'Cancel' should have size according to the mockup
+
+Priority: Low
