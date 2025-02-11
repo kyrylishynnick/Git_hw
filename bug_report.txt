@@ -1,1 +1,14 @@
+Title - The button 'Save' has the yellow color
+Steps to reproduce:
+1. Open the www.test.com
+2. Open the random user (e.g. userID = 2313)
+3. Make some changes
+4. Pay attention to the color of the 'Save' button
 
+Actual result:
+The button 'Save' has the yellow color
+
+Expected result:
+The button 'Save' has the blue color
+
+Priority: Low
